@@ -7,7 +7,7 @@
 ---
 
 ```
-KHAN-MD BY JawadTechX 💜 
+𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠 BY LEGEND 💫 
 ```
 
 --- 
@@ -62,7 +62,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 
 
-🚀 Deploy KHAN-MD
+🚀 Deploy 𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠
 
 > Deploy on Heroku
 
@@ -109,10 +109,10 @@ Start by forking this repository to your own GitHub account. Click the button be
 ---
 
 🏆 Credits & Contributors
-> KHAN-MD Owner 
-- [JawadTechX](https://github.com/XdTechPro)
-- Creater and Owner Of KHAN-MD
-> KHAN-MD Helpers 
+> 𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠 Owner 
+- [𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠](https://github.com/XdTechPro)
+- Creater and Owner Of 𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠
+> 𝐃𝐀𝐑𝐊-𝐌𝐃 💦🦠 Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
 - For helping in bot plugin files.
   
