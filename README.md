@@ -11,10 +11,16 @@ KHAN-MD BY JawadTechX 💜
 ```
 
 --- 
+<a>
+<h1> DARK MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 
-<a><img src='https://cdn.ironman.my.id/i/9zd4if.jpg'/></a>
+<br>
 
----
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=THE-%20DARK-LEGEND%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
   <a href="https://github.com/XdTechPro"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
