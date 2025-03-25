@@ -1,6 +1,6 @@
-name: khan-md
+name: DARK-LEGEND-MD
 services:
-  - name: khan-md-service
+  - name: Dark-md-service
     type: web
     ports:
       - 5000
