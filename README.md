@@ -23,7 +23,7 @@ src="https://cardivo.vercel.app/api?name=THE-%20DARK-LEGEND%20MD&description=A%2
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-  <a href="https://github.com/XdTechPro"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/dark125677"><img title="Developer" src="https://img.shields.io/badge/Author-DARK%20LEGEND-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
