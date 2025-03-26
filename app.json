@@ -1,8 +1,8 @@
 {
-  "name": "DARK-LEGEND-MD",
-  "description": "Javascript WhatsApp bot made by 𝐃𝐀𝐑𝐊 𝐋𝐄𝐆𝐄𝐍𝐃",
-  "logo": "https://files.catbox.moe/ykxrde",
-  "keywords": ["DARK-LEGEND-MD"],
+  "name": "KHAN-MD",
+  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
+  "keywords": ["KHAN-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DARK-LEGEND-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝘿𝘼𝙍𝙆♲︎︎︎𝙇𝙀𝙂𝙀𝙉𝘿"
+      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923305517972"
+      "value": "92310344XXXX"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARK-LEGEND-MD"
+      "value": "KHAN-MD"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘿𝙖𝙧𝙠 𝙇𝙚𝙂𝙚𝙣𝙙 *"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
     },
 
       "DELETE_LINKS": {
